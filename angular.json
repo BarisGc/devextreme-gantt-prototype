@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "gantt-v1": {
+    "devextreme-gantt-prototype": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/gantt-v1",
+            "outputPath": "dist/devextreme-gantt-prototype",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -75,10 +75,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "gantt-v1:build:production"
+              "browserTarget": "devextreme-gantt-prototype:build:production"
             },
             "development": {
-              "browserTarget": "gantt-v1:build:development"
+              "browserTarget": "devextreme-gantt-prototype:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -86,7 +86,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "gantt-v1:build"
+            "browserTarget": "devextreme-gantt-prototype:build"
           }
         },
         "test": {

@@ -20,16 +20,18 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'gantt-v1'`, () => {
+  it(`should have as title 'devextreme-gantt-prototype'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('gantt-v1');
+    expect(app.title).toEqual('devextreme-gantt-prototype');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('gantt-v1 app is running!');
+    expect(compiled.querySelector('.content span')?.textContent).toContain(
+      'devextreme-gantt-prototype app is running!'
+    );
   });
 });
