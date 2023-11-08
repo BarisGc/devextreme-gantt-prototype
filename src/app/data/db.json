@@ -1,0 +1,1856 @@
+{
+  "ganttData": [
+    {
+      "tasks": [
+        {
+          "parentTaskKey": null,
+          "start": "2020-11-23T21:00:00.000Z",
+          "end": "2021-05-31T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Robot: 612",
+          "taskKey": "1",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2020-11-23T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-26T21:00:00.000Z",
+          "plannedDuration": 95,
+          "actualDuration": 189,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Testte Olan Proje",
+          "taskIsRevision": false,
+          "resourceKey": "4",
+          "resourceText": "PRO; Proje Yöneticisi-1",
+          "routeLevelNumber": 0
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2020-11-23T21:00:00.000Z",
+          "end": "2020-11-27T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Sipariş Süreci",
+          "taskKey": "2",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2020-11-23T21:00:00.000Z",
+          "taskPlannedEndDate": "2020-11-27T21:00:00.000Z",
+          "plannedDuration": 4,
+          "actualDuration": 4,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "2",
+          "start": "2020-11-23T21:00:00.000Z",
+          "end": "2020-11-24T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Siparişin Alınması",
+          "taskKey": "3",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2020-11-23T21:00:00.000Z",
+          "taskPlannedEndDate": "2020-11-24T21:00:00.000Z",
+          "plannedDuration": 1,
+          "actualDuration": 1,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "2",
+          "start": "2020-11-24T21:00:00.000Z",
+          "end": "2020-11-27T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Sipariş Bilgi Toplama",
+          "taskKey": "4",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2020-11-24T21:00:00.000Z",
+          "taskPlannedEndDate": "2020-11-27T21:00:00.000Z",
+          "plannedDuration": 3,
+          "actualDuration": 3,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2020-11-27T21:00:00.000Z",
+          "end": "2021-02-04T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Tasarım Süreci",
+          "taskKey": "5",
+          "taskNotes": "1) 612 PROF - PRESS ROBOT. LAYOUT MÜŞTERİYE GÖNDERİLİP ONAYLADIKTAN SONRA İMALATA VERİLMELİDİR. SİPARİŞ:24.11.2020 TESLİM:CW09  ",
+          "taskPlannedStartDate": "2020-11-27T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-14T21:00:00.000Z",
+          "plannedDuration": 48,
+          "actualDuration": 69,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "5",
+          "start": "2020-11-27T21:00:00.000Z",
+          "end": "2020-12-17T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Tasarım Hazırlık",
+          "taskKey": "6",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2020-11-27T21:00:00.000Z",
+          "taskPlannedEndDate": "2020-11-28T21:00:00.000Z",
+          "plannedDuration": 1,
+          "actualDuration": 20,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "5",
+          "start": "2020-11-27T21:00:00.000Z",
+          "end": "2020-12-17T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Tasarım Işlemi(TASARIMCIYA TESLIM TARIHI)",
+          "taskKey": "40",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2020-11-27T21:00:00.000Z",
+          "taskPlannedEndDate": "2020-11-28T21:00:00.000Z",
+          "plannedDuration": 1,
+          "actualDuration": 20,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Operasyon Başladı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "5",
+          "start": "2021-02-03T21:00:00.000Z",
+          "end": "2021-02-04T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Imalat Resminin Hazırlanması",
+          "taskKey": "7",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-13T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-14T21:00:00.000Z",
+          "plannedDuration": 1,
+          "actualDuration": 1,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2021-02-05T21:00:00.000Z",
+          "end": "2021-02-22T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Şase Üretim Süreci",
+          "taskKey": "8",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-28T21:00:00.000Z",
+          "plannedDuration": 14,
+          "actualDuration": 14,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "TURAN",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "8",
+          "start": "2021-02-05T21:00:00.000Z",
+          "end": "2021-02-15T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Şase; Dış Imalat",
+          "taskKey": "9",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 10,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "TURAN",
+          "taskStatus": "Operasyon Tamamlandı",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "8",
+          "start": "2021-02-05T21:00:00.000Z",
+          "end": "2021-02-15T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Şase; Lazer Kesim",
+          "taskKey": "10",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 10,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "8",
+          "start": "2021-02-14T21:00:00.000Z",
+          "end": "2021-02-22T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Şase; Kaynak",
+          "taskKey": "11",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-17T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-28T21:00:00.000Z",
+          "plannedDuration": 11,
+          "actualDuration": 8,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "8",
+          "start": "2021-02-21T21:00:00.000Z",
+          "end": "2021-02-21T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Şase; Teslim",
+          "taskKey": "12",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-27T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-27T21:00:00.000Z",
+          "plannedDuration": 0,
+          "actualDuration": 0,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Dizme Üretim Süreci",
+          "taskKey": "13",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-10T21:00:00.000Z",
+          "plannedDuration": 27,
+          "actualDuration": 33,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Operasyon Durdu",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "13",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-02-15T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Dizme; Iç Imalat",
+          "taskKey": "14",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 8,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "13",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Dizme; Dış Imalat",
+          "taskKey": "15",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-07T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-15T21:00:00.000Z",
+          "plannedDuration": 8,
+          "actualDuration": 33,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "13",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Dizme; Satın Alma / Depo",
+          "taskKey": "16",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-07T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-03-12T21:00:00.000Z",
+          "plannedDuration": 33,
+          "actualDuration": 33,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "13",
+          "start": "2021-02-21T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Dizme; Montaj",
+          "taskKey": "17",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-21T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-02T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 19,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "13",
+          "start": "2021-02-24T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Dizme; Tesisat",
+          "taskKey": "18",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-29T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-10T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 16,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-16T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Ana Aks Kol Üretim Süreci",
+          "taskKey": "19",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-10T21:00:00.000Z",
+          "plannedDuration": 27,
+          "actualDuration": 109,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "19",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-02-15T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Ana Aks Kol; Iç Imalat",
+          "taskKey": "20",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 8,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "19",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Ana Aks Kol; Dış Imalat ",
+          "taskKey": "21",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 33,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "19",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Ana Aks Kol; Satın Alma / Depo ",
+          "taskKey": "22",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 33,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "19",
+          "start": "2021-02-21T21:00:00.000Z",
+          "end": "2021-03-15T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Ana Aks Kol; Montaj ",
+          "taskKey": "23",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-01T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-02T21:00:00.000Z",
+          "plannedDuration": 32,
+          "actualDuration": 22,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "19",
+          "start": "2021-02-24T21:00:00.000Z",
+          "end": "2021-03-16T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Ana Aks Kol; Tesisat ",
+          "taskKey": "24",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-29T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-10T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 20,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-16T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Etiket Transfer Üretim Süreci",
+          "taskKey": "26",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-10T21:00:00.000Z",
+          "plannedDuration": 27,
+          "actualDuration": 37,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "TURAN",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "26",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-02-15T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Etiket Transfer; Iç Imalat",
+          "taskKey": "27",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 8,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "26",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Etiket Transfer; Dış Imalat",
+          "taskKey": "28",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 33,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "26",
+          "start": "2021-02-07T21:00:00.000Z",
+          "end": "2021-03-12T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Etiket Transfer; Satın Alma / Depo",
+          "taskKey": "29",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-01-26T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 33,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "26",
+          "start": "2021-02-21T21:00:00.000Z",
+          "end": "2021-03-16T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Etiket Transfer; Montaj",
+          "taskKey": "30",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-21T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-02T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 23,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "26",
+          "start": "2021-02-24T21:00:00.000Z",
+          "end": "2021-03-16T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Etiket Transfer; Tesisat",
+          "taskKey": "31",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-01-29T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-10T21:00:00.000Z",
+          "plannedDuration": 12,
+          "actualDuration": 20,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2021-02-15T21:00:00.000Z",
+          "end": "2021-03-30T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Test Süreci",
+          "taskKey": "32",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-10T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-26T21:00:00.000Z",
+          "plannedDuration": 16,
+          "actualDuration": 16,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "32",
+          "start": "2021-03-14T21:00:00.000Z",
+          "end": "2021-03-17T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Test; Mekanik Ayar",
+          "taskKey": "33",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-10T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-13T21:00:00.000Z",
+          "plannedDuration": 3,
+          "actualDuration": 3,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "32",
+          "start": "2021-03-14T21:00:00.000Z",
+          "end": "2021-03-22T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Test; Elektrik Testi",
+          "taskKey": "34",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-10T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-13T21:00:00.000Z",
+          "plannedDuration": 3,
+          "actualDuration": 8,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "32",
+          "start": "2021-02-15T21:00:00.000Z",
+          "end": "2021-03-30T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Test; Yazılım Testi",
+          "taskKey": "35",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-14T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-22T21:00:00.000Z",
+          "plannedDuration": 8,
+          "actualDuration": 43,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "32",
+          "start": "2021-03-29T21:00:00.000Z",
+          "end": "2021-03-29T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Test; Proje Kontrol",
+          "taskKey": "36",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-22T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-03-26T21:00:00.000Z",
+          "plannedDuration": 32,
+          "actualDuration": 0,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "1",
+          "start": "2021-05-31T21:00:00.000Z",
+          "end": "2021-05-31T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Yükleme Süreçleri",
+          "taskKey": "37",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-26T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-26T21:00:00.000Z",
+          "plannedDuration": 0,
+          "actualDuration": 0,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 1
+        },
+        {
+          "parentTaskKey": "37",
+          "start": "2021-05-31T21:00:00.000Z",
+          "end": "2021-05-31T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Yükleme Formunun Hazırlanması",
+          "taskKey": "38",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-26T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-26T21:00:00.000Z",
+          "plannedDuration": 0,
+          "actualDuration": 0,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "parentTaskKey": "37",
+          "start": "2021-05-31T21:00:00.000Z",
+          "end": "2021-05-31T21:00:00.000Z",
+          "progress": 0,
+          "projectCode": "612",
+          "title": "Yüklemenin Gerçekleştirilmesi",
+          "taskKey": "39",
+          "taskNotes": "Buraya Not Girebilirsiniz!",
+          "taskPlannedStartDate": "2021-02-26T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-02-26T21:00:00.000Z",
+          "plannedDuration": 0,
+          "actualDuration": 0,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Henüz Belirlenmedi",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 2
+        },
+        {
+          "start": "2020-11-23T21:00:00.000Z",
+          "end": "2021-05-31T21:00:00.000Z",
+          "progress": 0,
+          "title": "Robot: 611 MIKAFRIC ROBOT.BMB 250T ENJEKSİYON ÇALIŞACAK. 4 ADET ÜRÜN OLACAK 2810,2820,2830 VE 2 göz 2840   NOLU ÜRÜNLER ÇALIŞACAK.                                                                        SİPARİŞ:15.12.2020                               TESLİM:CW05",
+          "taskKey": "7b429487-89ba-d4e9-45ed-097ae4b46b4d",
+          "parentTaskKey": null,
+          "projectCode": "611",
+          "taskPlannedStartDate": "2020-11-23T21:00:00.000Z",
+          "taskPlannedEndDate": "2021-05-31T21:00:00.000Z",
+          "plannedDuration": 189,
+          "actualDuration": 189,
+          "taskCompany": "Roboplas",
+          "taskCustomer": "Customer-1",
+          "taskStatus": "Henüz Belirlenmedi",
+          "taskNotes": null,
+          "taskIsRevision": false,
+          "resourceKey": "10",
+          "resourceText": "Henüz Belirlenmedi",
+          "routeLevelNumber": 0
+        }
+      ],
+      "dependencies": [],
+      "resources": [
+        {
+          "resourceKey": "1",
+          "text": "TAS; Tasarımcı-1",
+          "resourceType": "Tasarım Ekibi"
+        },
+        {
+          "resourceKey": "2",
+          "text": "TAS; Tasarımcı-2",
+          "resourceType": "Tasarım Ekibi"
+        },
+        {
+          "resourceKey": "3",
+          "text": "TAS; Tasarımcı-3",
+          "resourceType": "Tasarım Ekibi"
+        },
+        {
+          "resourceKey": "4",
+          "text": "PRO; Proje Yöneticisi-1",
+          "resourceType": "Proje Yöneticileri"
+        },
+        {
+          "resourceKey": "5",
+          "text": "PRO; Proje Yöneticisi-2",
+          "resourceType": "Proje Yöneticileri"
+        },
+        {
+          "resourceKey": "6",
+          "text": "PRO; Proje Yöneticisi-3",
+          "resourceType": "Proje Yöneticileri"
+        },
+        {
+          "resourceKey": "7",
+          "text": "TEK; Çalışan-1",
+          "resourceType": "Teknik Servis Ekibi"
+        },
+        {
+          "resourceKey": "8",
+          "text": "TEK; Çalışan-2",
+          "resourceType": "Teknik Servis Ekibi"
+        },
+        {
+          "resourceKey": "9",
+          "text": "TEK; Çalışan-3",
+          "resourceType": "Teknik Servis Ekibi"
+        },
+        {
+          "resourceKey": "10",
+          "text": "Henüz Belirlenmedi",
+          "resourceType": "Daha Sonra Güncellenecek"
+        },
+        {
+          "resourceKey": "11",
+          "text": "ÜRE; Iş Merkezi-1",
+          "resourceType": "Üretım Kaynakları"
+        },
+        {
+          "resourceKey": "12",
+          "text": "ÜRE; Iş Merkezi-2",
+          "resourceType": "Üretım Kaynakları"
+        },
+        {
+          "resourceKey": "13",
+          "text": "ÜRE; Iş Merkezi-3",
+          "resourceType": "Üretım Kaynakları"
+        },
+        {
+          "resourceKey": "14",
+          "text": "DIŞ; Fason-1",
+          "resourceType": "Dış Kaynaklar"
+        },
+        {
+          "resourceKey": "15",
+          "text": "DIŞ; Fason-2",
+          "resourceType": "Dış Kaynaklar"
+        },
+        {
+          "resourceKey": "16",
+          "text": "DIŞ; Fason-3",
+          "resourceType": "Dış Kaynaklar"
+        },
+        {
+          "resourceKey": "18",
+          "text": "SAT; Satış Elemanı-1",
+          "resourceType": "Satış Pazarlama Ekibi"
+        },
+        {
+          "resourceKey": "19",
+          "text": "SAT; Satış Elemanı-2",
+          "resourceType": "Satış Pazarlama Ekibi"
+        },
+        {
+          "resourceKey": "20",
+          "text": "SAT; Satış Elemanı-3",
+          "resourceType": "Satış Pazarlama Ekibi"
+        },
+        {
+          "resourceKey": "21",
+          "text": "TES; Tester-1",
+          "resourceType": "Test Ekibi"
+        },
+        {
+          "resourceKey": "22",
+          "text": "TES; Tester-2",
+          "resourceType": "Test Ekibi"
+        },
+        {
+          "resourceKey": "23",
+          "text": "TES; Tester-3",
+          "resourceType": "Test Ekibi"
+        },
+        {
+          "resourceKey": "24",
+          "text": "Erp'de Yok",
+          "resourceType": "Daha Sonra Güncellenecek"
+        }
+      ],
+      "resourceAssignments": [
+        {
+          "raKey": "0",
+          "taskKey": "1",
+          "resourceKey": "4"
+        },
+        {
+          "raKey": "1",
+          "taskKey": "2",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "2",
+          "taskKey": "3",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "3",
+          "taskKey": "4",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "4",
+          "taskKey": "5",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "5",
+          "taskKey": "6",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "6",
+          "taskKey": "7",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "7",
+          "taskKey": "8",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "8",
+          "taskKey": "9",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "9",
+          "taskKey": "10",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "10",
+          "taskKey": "11",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "11",
+          "taskKey": "12",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "12",
+          "taskKey": "13",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "13",
+          "taskKey": "14",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "14",
+          "taskKey": "15",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "15",
+          "taskKey": "16",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "16",
+          "taskKey": "17",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "17",
+          "taskKey": "18",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "18",
+          "taskKey": "19",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "19",
+          "taskKey": "20",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "20",
+          "taskKey": "21",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "21",
+          "taskKey": "22",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "22",
+          "taskKey": "23",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "23",
+          "taskKey": "24",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "24",
+          "taskKey": "25",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "25",
+          "taskKey": "26",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "26",
+          "taskKey": "27",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "27",
+          "taskKey": "28",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "28",
+          "taskKey": "29",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "29",
+          "taskKey": "30",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "30",
+          "taskKey": "31",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "31",
+          "taskKey": "32",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "32",
+          "taskKey": "33",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "33",
+          "taskKey": "34",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "34",
+          "taskKey": "35",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "35",
+          "taskKey": "36",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "36",
+          "taskKey": "37",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "37",
+          "taskKey": "38",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "38",
+          "taskKey": "39",
+          "resourceKey": "10"
+        },
+        {
+          "raKey": "39",
+          "taskKey": "7b429487-89ba-d4e9-45ed-097ae4b46b4d",
+          "resourceKey": "10"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "ERPbasicData": [
+    {
+      "id": 1,
+      "taskStatusList": [
+        {
+          "id": 1,
+          "statusName": "Tasarımdayken Başka Projeye Geçildi",
+          "statusdisplayColor": "#59C1BD",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 2,
+          "statusName": "Tasarım Bitti",
+          "statusdisplayColor": "#82CD47",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 3,
+          "statusName": "Tasarım İptal",
+          "statusdisplayColor": "#F6F6C9",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 4,
+          "statusName": "Tasarım Beklemede",
+          "statusdisplayColor": "#FD841F",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 5,
+          "statusName": "Tasarım Aşamasında",
+          "statusdisplayColor": "#D6E4E5",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 6,
+          "statusName": "Sipariş veya Revizyon Formu Revizyona Uğramıştır",
+          "statusdisplayColor": "#393E46",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 7,
+          "statusName": "Müşteriden Bilgi Bekleniyor",
+          "statusdisplayColor": "#9F73AB",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 8,
+          "statusName": "Müşteri Onayı Bekleniyor",
+          "statusdisplayColor": "#FB2576",
+          "statusGroup": "Tasarım Iş Listesi"
+        },
+        {
+          "id": 9,
+          "statusName": "Testi Yapılan(Hazır) Proje",
+          "statusdisplayColor": "#3F3B6C",
+          "statusGroup": "Robot Süreçleri"
+        },
+        {
+          "id": 10,
+          "statusName": "Testte Olan Proje",
+          "statusdisplayColor": "#3E6D9C",
+          "statusGroup": "Robot Süreçleri"
+        },
+        {
+          "id": 11,
+          "statusName": "Yükleme Yapılan Proje",
+          "statusdisplayColor": "#E0144C",
+          "statusGroup": "Robot Süreçleri"
+        },
+        {
+          "id": 12,
+          "statusName": "Tasarımda Olan Proje",
+          "statusdisplayColor": "#6C4AB6",
+          "statusGroup": "Robot Süreçleri"
+        },
+        {
+          "id": 13,
+          "statusName": "İmalatta Olan Proje",
+          "statusdisplayColor": "#3F3B6C",
+          "statusGroup": "Robot Süreçleri"
+        },
+        {
+          "id": 14,
+          "statusName": "Kamerada Olan Proje",
+          "statusdisplayColor": "#F0FF42",
+          "statusGroup": "Robot Süreçleri"
+        },
+        {
+          "id": 15,
+          "statusName": "Operasyon Başladı",
+          "statusdisplayColor": "#B3FFAE",
+          "statusGroup": "Operasyon Süreçleri"
+        },
+        {
+          "id": 16,
+          "statusName": "Operasyon Tamamlandı",
+          "statusdisplayColor": "#36AE7C",
+          "statusGroup": "Operasyon Süreçleri"
+        },
+        {
+          "id": 17,
+          "statusName": "Operasyon Durdu",
+          "statusdisplayColor": "#F9D923",
+          "statusGroup": "Operasyon Süreçleri"
+        },
+        {
+          "id": 18,
+          "statusName": "Operasyon Iptal",
+          "statusdisplayColor": "#EB5353",
+          "statusGroup": "Operasyon Süreçleri"
+        },
+        {
+          "id": 19,
+          "statusName": "Operasyon Bekliyor",
+          "statusdisplayColor": "#e6e6e6",
+          "statusGroup": "Operasyon Süreçleri"
+        },
+        {
+          "id": 20,
+          "statusName": "Henüz Belirlenmedi",
+          "statusdisplayColor": "#e6e6e6",
+          "statusGroup": "ERP"
+        },
+        {
+          "id": 21,
+          "statusName": "Ön Hazırlığı Yapılan Proje",
+          "statusdisplayColor": "#FF99D7",
+          "statusGroup": "Robot Süreçleri"
+        }
+      ],
+      "taskOperationList": [
+        {
+          "id": 1,
+          "key": "1",
+          "name": "Sipariş Süreci",
+          "displayColor": "#B8E8FC",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 2,
+          "key": "2",
+          "name": "Siparişin Alınması",
+          "displayColor": "#B8E8FC",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Sipariş Süreci",
+          "preRouteKey": "1"
+        },
+        {
+          "id": 3,
+          "key": "3",
+          "name": "Sipariş Bilgi Toplama",
+          "displayColor": "#B8E8FC",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Sipariş Süreci",
+          "preRouteKey": "1"
+        },
+        {
+          "id": 4,
+          "key": "4",
+          "name": "Tasarım Süreci",
+          "displayColor": "#FFB9B9",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 5,
+          "key": "5",
+          "name": "Tasarım Hazırlık",
+          "displayColor": "#FFB9B9",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Tasarım Süreci",
+          "preRouteKey": "4"
+        },
+        {
+          "id": 6,
+          "key": "6",
+          "name": "Imalat Resminin Hazırlanması",
+          "displayColor": "#FFB9B9",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Tasarım Süreci",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 7,
+          "key": "7",
+          "name": "Şase Üretim Süreci",
+          "displayColor": "#B9E0FF",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 8,
+          "key": "8",
+          "name": "Şase; Dış Imalat",
+          "displayColor": "#B9E0FF",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Şase Üretim Süreci",
+          "preRouteKey": "7"
+        },
+        {
+          "id": 9,
+          "key": "9",
+          "name": "Şase; Lazer Kesim",
+          "displayColor": "#B9E0FF",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Şase Üretim Süreci",
+          "preRouteKey": "7"
+        },
+        {
+          "id": 10,
+          "key": "10",
+          "name": "Şase; Kaynak",
+          "displayColor": "#B9E0FF",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Şase Üretim Süreci",
+          "preRouteKey": "7"
+        },
+        {
+          "id": 11,
+          "key": "11",
+          "name": "Şase; Teslim",
+          "displayColor": "#B9E0FF",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Şase Üretim Süreci",
+          "preRouteKey": "7"
+        },
+        {
+          "id": 12,
+          "key": "12",
+          "name": "Dizme Üretim Süreci",
+          "displayColor": "#FFAE6D",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 13,
+          "key": "13",
+          "name": "Dizme; Iç Imalat",
+          "displayColor": "#FFAE6D",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Dizme Üretim Süreci",
+          "preRouteKey": "12"
+        },
+        {
+          "id": 14,
+          "key": "14",
+          "name": "Dizme; Dış Imalat",
+          "displayColor": "#FFAE6D",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Dizme Üretim Süreci",
+          "preRouteKey": "12"
+        },
+        {
+          "id": 15,
+          "key": "15",
+          "name": "Dizme; Satın Alma / Depo",
+          "displayColor": "#FFAE6D",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Dizme Üretim Süreci",
+          "preRouteKey": "12"
+        },
+        {
+          "id": 16,
+          "key": "16",
+          "name": "Dizme; Montaj",
+          "displayColor": "#FFAE6D",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Dizme Üretim Süreci",
+          "preRouteKey": "12"
+        },
+        {
+          "id": 17,
+          "key": "17",
+          "name": "Dizme; Tesisat",
+          "displayColor": "#FFAE6D",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Dizme Üretim Süreci",
+          "preRouteKey": "12"
+        },
+        {
+          "id": 18,
+          "key": "18",
+          "name": "Ana Aks Kol Üretim Süreci",
+          "displayColor": "#9F73AB",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 19,
+          "key": "19",
+          "name": "Ana Aks Kol; Iç Imalat",
+          "displayColor": "#9F73AB",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Ana Aks Kol Üretim Süreci",
+          "preRouteKey": "18"
+        },
+        {
+          "id": 20,
+          "key": "20",
+          "name": "Ana Aks Kol; Dış Imalat ",
+          "displayColor": "#9F73AB",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Ana Aks Kol Üretim Süreci",
+          "preRouteKey": "18"
+        },
+        {
+          "id": 21,
+          "key": "21",
+          "name": "Ana Aks Kol; Satın Alma / Depo ",
+          "displayColor": "#9F73AB",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Ana Aks Kol Üretim Süreci",
+          "preRouteKey": "18"
+        },
+        {
+          "id": 22,
+          "key": "22",
+          "name": "Ana Aks Kol; Montaj ",
+          "displayColor": "#9F73AB",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Ana Aks Kol Üretim Süreci",
+          "preRouteKey": "18"
+        },
+        {
+          "id": 23,
+          "key": "23",
+          "name": "Ana Aks Kol; Tesisat ",
+          "displayColor": "#9F73AB",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Ana Aks Kol Üretim Süreci",
+          "preRouteKey": "18"
+        },
+        {
+          "id": 24,
+          "key": "24",
+          "name": "Seperatör Üretim Süreci",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 25,
+          "key": "25",
+          "name": "Seperatör; Iç Imalat",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Seperatör Üretim Süreci",
+          "preRouteKey": "24"
+        },
+        {
+          "id": 26,
+          "key": "26",
+          "name": "Seperatör; Dış Imalat",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Seperatör Üretim Süreci",
+          "preRouteKey": "24"
+        },
+        {
+          "id": 27,
+          "key": "27",
+          "name": "Seperatör; Satın Alma / Depo",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Seperatör Üretim Süreci",
+          "preRouteKey": "24"
+        },
+        {
+          "id": 28,
+          "key": "28",
+          "name": "Seperatör; Montaj",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Seperatör Üretim Süreci",
+          "preRouteKey": "24"
+        },
+        {
+          "id": 29,
+          "key": "29",
+          "name": "Seperatör; Tesisat",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Seperatör Üretim Süreci",
+          "preRouteKey": "24"
+        },
+        {
+          "id": 30,
+          "key": "30",
+          "name": "Test Süreci",
+          "displayColor": "#B2B2B2",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 31,
+          "key": "31",
+          "name": "Test; Mekanik Ayar",
+          "displayColor": "#B2B2B2",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Test",
+          "preRouteKey": "30"
+        },
+        {
+          "id": 32,
+          "key": "32",
+          "name": "Test; Elektrik Testi",
+          "displayColor": "#B2B2B2",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Test",
+          "preRouteKey": "30"
+        },
+        {
+          "id": 33,
+          "key": "33",
+          "name": "Test; Yazılım Testi",
+          "displayColor": "#B2B2B2",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Test",
+          "preRouteKey": "30"
+        },
+        {
+          "id": 34,
+          "key": "34",
+          "name": "Test; Proje Kontrol",
+          "displayColor": "#B2B2B2",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Test",
+          "preRouteKey": "30"
+        },
+        {
+          "id": 35,
+          "key": "35",
+          "name": "Yükleme Formunun Hazırlanması",
+          "displayColor": "#D79771",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Yükleme Süreçleri",
+          "preRouteKey": "46"
+        },
+        {
+          "id": 36,
+          "key": "36",
+          "name": "Yüklemenin Gerçekleştirilmesi",
+          "displayColor": "#B05B3B",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Yükleme Süreçleri",
+          "preRouteKey": "46"
+        },
+        {
+          "id": 37,
+          "key": "37",
+          "name": "Etiket Transfer Üretim Süreci",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 38,
+          "key": "38",
+          "name": "Etiket Transfer; Iç Imalat",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Etiket Transfer Üretim Süreci",
+          "preRouteKey": "37"
+        },
+        {
+          "id": 39,
+          "key": "39",
+          "name": "Etiket Transfer; Dış Imalat",
+          "displayColOrderor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Etiket Transfer Üretim Süreci",
+          "preRouteKey": "37"
+        },
+        {
+          "id": 40,
+          "key": "40",
+          "name": "Etiket Transfer; Satın Alma / Depo",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Etiket Transfer Üretim Süreci",
+          "preRouteKey": "37"
+        },
+        {
+          "id": 41,
+          "key": "41",
+          "name": "Etiket Transfer; Montaj",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Etiket Transfer Üretim Süreci",
+          "preRouteKey": "37"
+        },
+        {
+          "id": 42,
+          "key": "42",
+          "name": "Etiket Transfer; Tesisat",
+          "displayColor": "#82CD47",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Etiket Transfer Üretim Süreci",
+          "preRouteKey": "37"
+        },
+        {
+          "id": 43,
+          "key": "43",
+          "name": "Yeni Proje/Görev/Operasyon",
+          "displayColor": "#e6e6e6",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "ERP Yazılım Süreçleri",
+          "preRouteKey": "47"
+        },
+        {
+          "id": 46,
+          "key": "46",
+          "name": "Yükleme Süreçleri",
+          "displayColor": "#8E3200",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 47,
+          "key": "47",
+          "name": "ERP Ekran Geliştirmesi",
+          "displayColor": "#F2E7D5",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 1,
+          "routeLevelName": "Proje Süreçleri",
+          "preRouteKey": "0"
+        },
+        {
+          "id": 48,
+          "key": "48",
+          "name": "Tasarım Işlemi(TASARIMCIYA TESLIM TARIHI)",
+          "displayColor": "#bfbfbf",
+          "variousInfoRelations": [
+            {}
+          ],
+          "routeLevelNumber": 2,
+          "routeLevelName": "Tasarım Süreci",
+          "preRouteKey": "4"
+        }
+      ]
+    }
+  ]
+}
